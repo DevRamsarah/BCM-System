@@ -1,0 +1,226 @@
+Order Reference: 14, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:     400,120.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 141, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Cancelled, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 141, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.1, Invoice Total Amount:     136,295.00, Action: OK
+
+Order Reference: 141, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.3, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 141, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 142, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 142, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.2, Invoice Total Amount:      26,800.00, Action: OK
+
+Order Reference: 142, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 142, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.1, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.2, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.3, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.4, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 143, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.1, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.2, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.3, Invoice Total Amount:      89,075.00, Action: To follow up
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 144, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Cancelled, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.1, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.3, Invoice Total Amount:           0.00, Action: To follow up
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO014.4, Invoice Total Amount:      43,350.00, Action: To follow up
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 145, Order Period: SEP-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 13, Order Period: AUG-2022, Supplier Name: Mottoway Corp., Order Total Amount:   5,819,625.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 131, Order Period: AUG-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO013.1, Invoice Total Amount:   5,819,625.00, Action: OK
+
+Order Reference: 132, Order Period: AUG-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO013.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 133, Order Period: AUG-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO013.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 134, Order Period: AUG-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO013.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 12, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:     265,000.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 121, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.1, Invoice Total Amount:      48,500.00, Action: OK
+
+Order Reference: 121, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.2, Invoice Total Amount:     108,370.00, Action: OK
+
+Order Reference: 121, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 122, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 122, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.2, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 122, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.3, Invoice Total Amount:      84,350.00, Action: OK
+
+Order Reference: 122, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 122, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 123, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 124, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.2, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 125, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO012.3, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 125, Order Period: AUG-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 11, Order Period: JUL-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:      43,200.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 111, Order Period: JUL-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO011.1, Invoice Total Amount:      43,200.00, Action: OK
+
+Order Reference: 112, Order Period: JUL-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO011.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 10, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:     182,700.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 101, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO010.1, Invoice Total Amount:     182,700.00, Action: OK
+
+Order Reference: 101, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 102, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO010.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 102, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 103, Order Period: JUL-2022, Supplier Name: Foxy Electronics, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO010.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 9, Order Period: JUN-2022, Supplier Name: Fireland Bros., Order Total Amount:      36,800.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 91, Order Period: JUN-2022, Supplier Name: Fireland Bros., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO009.1, Invoice Total Amount:      22,500.00, Action: OK
+
+Order Reference: 8, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:      85,200.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 81, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO008.1, Invoice Total Amount:      40,250.00, Action: OK
+
+Order Reference: 81, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO008.2, Invoice Total Amount:      44,950.00, Action: OK
+
+Order Reference: 81, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 82, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO008.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 82, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO008.2, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 82, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 82, Order Period: JUN-2022, Supplier Name: Jinfix Computers, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 7, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:      26,700.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 71, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO007.1, Invoice Total Amount:      17,200.00, Action: OK
+
+Order Reference: 72, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO007.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 73, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:           0.00, Order Status: Cancelled, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 74, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO007.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 75, Order Period: JUN-2022, Supplier Name: Safedest Taxi Services, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO007.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 5, Order Period: APR-2022, Supplier Name: Emtello Ltd, Order Total Amount:      21,000.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 51, Order Period: APR-2022, Supplier Name: Emtello Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO005.1, Invoice Total Amount:       8,000.00, Action: To follow up
+
+Order Reference: 52, Order Period: APR-2022, Supplier Name: Emtello Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO005.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 53, Order Period: APR-2022, Supplier Name: Emtello Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO005.2, Invoice Total Amount:       8,000.00, Action: OK
+
+Order Reference: 54, Order Period: APR-2022, Supplier Name: Emtello Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO005.2, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 6, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:     250,000.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.1, Invoice Total Amount:      24,300.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.2, Invoice Total Amount:       4,300.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.3, Invoice Total Amount:      25,400.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.4, Invoice Total Amount:      50,200.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.5, Invoice Total Amount:      70,800.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO006.6, Invoice Total Amount:      60,000.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 61, Order Period: FEB-2022, Supplier Name: Stuffie Stationery, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 4, Order Period: FEB-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:       6,800.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 41, Order Period: FEB-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:       2,000.00, Order Status: Received, Invoice Reference: INV_PO004, Invoice Total Amount:       2,200.00, Action: OK
+
+Order Reference: 42, Order Period: FEB-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:       2,000.00, Order Status: Received, Invoice Reference: INV_PO004, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 43, Order Period: FEB-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:       3,000.00, Order Status: Received, Invoice Reference: INV_PO004.1, Invoice Total Amount:       3,000.00, Action: OK
+
+Order Reference: 44, Order Period: FEB-2022, Supplier Name: Lamboni Stat Inc., Order Total Amount:         600.00, Order Status: Cancelled, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 3, Order Period: JAN-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:      57,300.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 31, Order Period: JAN-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO003.1, Invoice Total Amount:      47,300.00, Action: OK
+
+Order Reference: 32, Order Period: JAN-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO003.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 33, Order Period: JAN-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO003.1, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 34, Order Period: JAN-2022, Supplier Name: Digisay Co. Ltd., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO003.2, Invoice Total Amount:      10,000.00, Action: OK
+
+Order Reference: 2, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:     750,000.00, Order Status: Open, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 21, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO002.1, Invoice Total Amount:     100,000.00, Action: To follow up
+
+Order Reference: 21, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO002.2, Invoice Total Amount:     300,000.00, Action: To follow up
+
+Order Reference: 21, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO002.3, Invoice Total Amount:     249,000.00, Action: To follow up
+
+Order Reference: 21, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 21, Order Period: JAN-2022, Supplier Name: Mottoway Corp., Order Total Amount:           0.00, Order Status: Received, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 1, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:      10,000.00, Order Status: Closed, Invoice Reference: N/A, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 11, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001, Invoice Total Amount:       3,425.00, Action: OK
+
+Order Reference: 12, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 13, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 14, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001, Invoice Total Amount:           0.00, Action: OK
+
+Order Reference: 15, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001.1, Invoice Total Amount:       4,100.00, Action: OK
+
+Order Reference: 16, Order Period: JAN-2022, Supplier Name: Pegasus Ltd, Order Total Amount:           0.00, Order Status: Received, Invoice Reference: INV_PO001.1, Invoice Total Amount:           0.00, Action: OK
+
